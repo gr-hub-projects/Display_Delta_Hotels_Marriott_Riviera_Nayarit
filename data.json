@@ -1,7 +1,40 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "147031263",
+        "Flight": "WS2251",
+        "PickupDate": "2025-11-25",
+        "PickupTime": "11:15",
+        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
+        "HotelNumber": 16705
+      },
+      {
+        "id": "144566043",
+        "Flight": "WS2241",
+        "PickupDate": "2025-11-25",
+        "PickupTime": "13:50",
+        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
+        "HotelNumber": 16705
+      },
+      {
+        "id": "147086763",
+        "Flight": "WS2251",
+        "PickupDate": "2025-11-25",
+        "PickupTime": "11:15",
+        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
+        "HotelNumber": 16705
+      },
+      {
+        "id": "147086903",
+        "Flight": "WS2251",
+        "PickupDate": "2025-11-25",
+        "PickupTime": "11:15",
+        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
+        "HotelNumber": 16705
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
