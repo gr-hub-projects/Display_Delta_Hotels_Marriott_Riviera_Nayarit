@@ -3,50 +3,26 @@
     "type": "JSON",
     "content": [
       {
-        "id": "146947003",
-        "Flight": "WS2251",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "10:55",
+        "id": "144988733",
+        "Flight": "WS2215",
+        "PickupDate": "2025-12-20",
+        "PickupTime": "13:45",
         "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
         "HotelNumber": 16705
       },
       {
-        "id": "146579702",
-        "Flight": "WS2611",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "19:00",
+        "id": "144982713",
+        "Flight": "WS2113",
+        "PickupDate": "2025-12-20",
+        "PickupTime": "08:30",
         "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
         "HotelNumber": 16705
       },
       {
-        "id": "149031191",
-        "Flight": "WS2241",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "13:50",
-        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
-        "HotelNumber": 16705
-      },
-      {
-        "id": "146291223",
-        "Flight": "WS2611",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "18:50",
-        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
-        "HotelNumber": 16705
-      },
-      {
-        "id": "146580071",
-        "Flight": "WS2611",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "19:00",
-        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
-        "HotelNumber": 16705
-      },
-      {
-        "id": "146830363",
-        "Flight": "WS2771",
-        "PickupDate": "2025-12-19",
-        "PickupTime": "11:50",
+        "id": "148541203",
+        "Flight": "WS2181",
+        "PickupDate": "2025-12-20",
+        "PickupTime": "04:30",
         "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
         "HotelNumber": 16705
       }
