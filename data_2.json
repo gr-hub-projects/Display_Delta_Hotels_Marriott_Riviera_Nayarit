@@ -1,24 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "148991473",
-        "Flight": "WS2151",
-        "PickupDate": "2026-02-17",
-        "PickupTime": "15:00",
-        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
-        "HotelNumber": 16705
-      },
-      {
-        "id": "148991093",
-        "Flight": "WS2151",
-        "PickupDate": "2026-02-17",
-        "PickupTime": "15:00",
-        "HotelName": "Delta Hotels by Marriott Riviera Nayarit",
-        "HotelNumber": 16705
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
